@@ -1,0 +1,102 @@
+{
+  "P01": [
+    "Biz Fibre 100",
+    "Business fibre broadband, 100 Mbps, unlimited data"
+  ],
+  "P02": [
+    "Biz Fibre 300",
+    "Business fibre broadband, 300 Mbps, unlimited data, static IP optional"
+  ],
+  "P03": [
+    "Biz Fibre 1G",
+    "Business fibre broadband, 1 Gbps, priority support"
+  ],
+  "P04": [
+    "Biz 5G AirFiber 100",
+    "Wireless (5G FWA) broadband, 100 Mbps, plug-and-play, for sites without fibre"
+  ],
+  "P05": [
+    "Internet Leased Line 20",
+    "Dedicated 1:1 internet, 20 Mbps, 99.5% SLA"
+  ],
+  "P06": [
+    "Internet Leased Line 100",
+    "Dedicated 1:1 internet, 100 Mbps, 99.9% SLA"
+  ],
+  "P07": [
+    "Business Postpaid 299",
+    "Business mobile line, 50 GB data, unlimited calls"
+  ],
+  "P08": [
+    "Business Postpaid 599",
+    "Business mobile line, 150 GB data, roaming, priority care"
+  ],
+  "P09": [
+    "Backup 4G/5G Failover",
+    "Automatic failover router with data SIM for when the main link is down"
+  ],
+  "P10": [
+    "Managed SD-WAN",
+    "Central management of links across sites, app-priority routing"
+  ],
+  "P11": [
+    "Static IP",
+    "Fixed public IP for CCTV, servers or remote access"
+  ],
+  "P12": [
+    "Cloud Telephony / SIP",
+    "Business phone lines over internet with IVR, call recording"
+  ],
+  "P13": [
+    "Toll-free Number",
+    "1800 number routed to mobile or cloud telephony"
+  ],
+  "P14": [
+    "Business SMS 10k",
+    "10,000 SMS per month for alerts and promotions, DLT registration assisted"
+  ],
+  "P15": [
+    "WhatsApp Business API Starter",
+    "Verified WhatsApp channel, catalogue, 1,000 conversations a month"
+  ],
+  "P16": [
+    "Cloud Email & Office Suite",
+    "Business email on own domain, documents, video meetings"
+  ],
+  "P17": [
+    "Cloud Backup 1 TB",
+    "Automatic backup of PCs and phones, 1 TB"
+  ],
+  "P18": [
+    "Website + Domain Starter",
+    "Domain, 5-page website builder, hosting, SSL"
+  ],
+  "P19": [
+    "Cloud POS & Billing",
+    "GST-ready billing, inventory, UPI/card acceptance on a tablet"
+  ],
+  "P20": [
+    "Endpoint Security",
+    "Antivirus and ransomware protection for PCs and phones"
+  ],
+  "P21": [
+    "Managed Firewall",
+    "Next-gen firewall at the site, managed by Accel SOC"
+  ],
+  "P22": [
+    "Secure Wi-Fi with Guest Network",
+    "Managed Wi-Fi access point with separate customer Wi-Fi and content filtering"
+  ],
+  "P23": [
+    "Cloud CCTV",
+    "HD camera with 30-day cloud recording and mobile app view"
+  ],
+  "P24": [
+    "Machine Monitoring IoT",
+    "IoT SIM + sensor kit for machine uptime and energy use"
+  ],
+  "P25": [
+    "Fleet Tracker",
+    "GPS tracker with IoT SIM and live dashboard"
+  ]
+}
